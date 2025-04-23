@@ -15,7 +15,7 @@ fi
 
 xhost +local:docker
 
-docker build -t qt5-env .
+docker build -t ubuntu20.04-qt5 .
 
 docker run -it --rm \
   -e DISPLAY=$DISPLAY \

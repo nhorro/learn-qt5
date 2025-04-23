@@ -1,5 +1,14 @@
-Project to learn QT5 Development
-================================
+Qt5 sandbox
+===========
+
+Docker based environment to experiment with Qt5 with QML support. Uses Ubuntu 20.04 as base layer.
+
+Contents
+--------
+
+1. Docker environment.
+2. Examples.
+
 
 Docker
 ------
@@ -20,7 +29,6 @@ Examples
 --------
 
 Build from QTCreator or from command line:
-
 
 ~~~bash
 cd hello-qml
